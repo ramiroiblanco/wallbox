@@ -1,6 +1,7 @@
 #Giphy search endpoint tests
 
-This repository contains some basic tests of the Giphy search endpoint (https://developers.giphy.com/docs/api/endpoint/#search)
+This repository contains some basic tests of the Giphy search endpoint (https://developers.giphy.com/docs/api/endpoint/#search).
+This is in now way a comprehensive test package, it is only a minimum sample test package.
 
 ##Comments
 
