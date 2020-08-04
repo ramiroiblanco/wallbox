@@ -28,7 +28,7 @@ Now you are ready to run the tests. You can run the tests from the Cypress comma
 ####Cypress GUI
 Run:
 
-`cypress open`
+`npx cypress open`
 
 After some time, the Cypress GUI will open (this can take a while if it is the first time you are using Cypress).
 Once the Gui is open, click on 'run all specs'. This will open a browser window and run the tests.
@@ -36,6 +36,6 @@ Once the Gui is open, click on 'run all specs'. This will open a browser window 
 ####Cypress CLI
 From the project folder in the command line, run:
 
-`cypress run'
+`npx cypress run'
 
 The tests will run and Cypress will provide feedback in the terminal.
